@@ -1,0 +1,1 @@
+This is just code application of the mathematical concepts I am learning in Analysis 1. I find it easier to learn through code as I can clearly follow the logic.I hope this helps anyone who comes across it too
